@@ -293,6 +293,13 @@
 			line-height: 1em;
 		}
 
+		h2 {
+			font-size: 2.5em;
+			font-weight: 600;
+			margin: 0.75em 0 0.25em 0;
+			opacity: 0.9;
+		}
+
 		p {
 			font-size: 5em;
 			font-weight: 600;
@@ -437,6 +444,10 @@
 			#header {
 				h1 {
 					font-size: 2.5em;
+				}
+
+				h1 {
+					font-size: 1.5em;
 				}
 
 				p {
