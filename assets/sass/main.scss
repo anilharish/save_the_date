@@ -226,7 +226,7 @@
 		100%	{ opacity: 1; }
 	}
 
-	#overlay {
+	#webkit-animation {
 		@include vendor('animation', 'overlay #{_duration(overlay)} #{$delay-overlay} forwards');
 		background-attachment: fixed, fixed;
 		background-image: url('images/overlay-pattern.png'), url('images/overlay.svg');
